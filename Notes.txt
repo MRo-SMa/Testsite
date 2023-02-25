@@ -4,7 +4,7 @@
 <title>Lost ARch1</title>
 </head>
 <body>
-<p>This is for testing.0</p>
+<p>This is for testing.</p>
 <p>This is my change</p>
 </body>
 </html>
