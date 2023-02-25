@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is for testing
 add in the copy**
+=======
+This is for testing.00
+>>>>>>> refs/remotes/origin/main
